@@ -1,4 +1,4 @@
--- Crear la base de datos Alke Wallet
+-- Crea la base de datos Alke Wallet
 CREATE DATABASE  `alke Wallet`;
 
 
